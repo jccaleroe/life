@@ -1,0 +1,12 @@
+Library
+Build
+obj
+*.csproj
+.vscode
+Temp
+ProjectSettings
+Assets/Plugins
+Assets/Plugins.meta
+Packages
+UnityPackageManager
+.idea
